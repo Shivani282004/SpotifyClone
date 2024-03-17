@@ -1,1 +1,1 @@
-Basic Spotify Clone using HTML and CSS
+Basic Spotify Clone implemented with HTML and CSS
